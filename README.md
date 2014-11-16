@@ -1,14 +1,4 @@
 
-# emacs-boron-theme
+# Emacs boron theme
 
-TODO: Add a proper README.md
-
-## Description
-
-## Usage
-
-## Licence
-
-## Contributing
-
-
+![](https://github.com/emacsfodder/emacs-boron-theme/raw/master/boron-theme.png)
