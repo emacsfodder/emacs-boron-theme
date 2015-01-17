@@ -65,7 +65,7 @@
  '(cua-rectangle                       ((t (:foreground "#E0E4CC"  :background "#342858" ))))
 
  ;; Magit hightlight
- '(magit-item-highlight                ((t (:foreground "white" :background "#1278A8" :inherit nil ))))
+ '(magit-item-highlight                ((t (:foreground "white" :background "#1b1c1d" :inherit nil ))))
 
  ;; flyspell-mode
  '(flyspell-incorrect                  ((t (:underline "#AA0000" :background nil :inherit nil ))))
@@ -80,8 +80,8 @@
  '(git-gutter:modified                 ((t (:foreground "#3388cc" :bold t))))
  '(git-gutter:deleted                  ((t (:foreground "#cc3333" :bold t))))
 
- '(diff-added                          ((t (:background "#305030"))))
- '(diff-removed                        ((t (:background "#903010"))))
+ '(diff-added                          ((t (:foreground "#609f60"))))
+ '(diff-removed                        ((t (:foreground "#cc3333"))))
  '(diff-file-header                    ((t (:background "#362145"))))
  '(diff-context                        ((t (:foreground "#E0E4CC"))))
  '(diff-changed                        ((t (:foreground "#3388cc"))))
